@@ -1,5 +1,3 @@
-# AI_final_project
-
 # SIT215 Artificial And Computational Intelligence: Reinforcement Learning
 <!-- 
 Author : adhitya ram 
